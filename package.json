@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "lint": "textlint"
+    "lint": "textlint",
+    "new": "zenn new:article"
   },
   "repository": {
     "type": "git",
@@ -19,7 +20,7 @@
   },
   "homepage": "https://github.com/JohnTitor/zenn-articles#readme",
   "dependencies": {
-    "zenn-cli": "^0.2.1"
+    "zenn-cli": "^0.2.10"
   },
   "devDependencies": {
     "textlint": "^15.2.2",

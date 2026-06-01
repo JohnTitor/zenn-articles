@@ -20,10 +20,10 @@
   },
   "homepage": "https://github.com/JohnTitor/zenn-articles#readme",
   "dependencies": {
-    "zenn-cli": "^0.2.10"
+    "zenn-cli": "^0.2.11"
   },
   "devDependencies": {
-    "textlint": "^15.2.2",
+    "textlint": "^15.7.1",
     "textlint-rule-preset-ja-spacing": "^2.4.3",
     "textlint-rule-preset-japanese": "^10.0.4",
     "textlint-rule-prh": "^6.1.0"

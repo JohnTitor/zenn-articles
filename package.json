@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/JohnTitor/zenn-articles#readme",
   "dependencies": {
-    "zenn-cli": "^0.5.1"
+    "zenn-cli": "^0.5.14"
   },
   "devDependencies": {
     "textlint": "^15.7.1",
